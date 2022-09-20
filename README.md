@@ -16,3 +16,9 @@ https://polar-lake-83862.herokuapp.com/
 - THEN that note appears in the right-hand column
 - WHEN I click on the Write icon in the navigation at the top of the page
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+## mockup
+
+![image](https://user-images.githubusercontent.com/99931043/191177436-e5905258-e40b-4bfc-8034-ca01dddcfa56.png)
+
+![image](https://user-images.githubusercontent.com/99931043/191177369-8d87cde2-1fba-4d1c-b223-3edc138224c2.png)
