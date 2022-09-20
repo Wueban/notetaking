@@ -5,7 +5,7 @@ const { createNewnote, deleteNote } = require('../../lib/functions')
 //get
 router.get('/notes', (req, res) => {
     let savedNotes = notes;
-    res.json(savedNotesq)
+    res.json(savedNotes)
 })
 
 //post
